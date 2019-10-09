@@ -15,7 +15,7 @@
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(10).pdf" style="text-decoration:none;">Essentials of Computational Chemistry: Theories and Models</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(11).pdf" style="text-decoration:none;">Frontiers in Computational Chemistry</a></b></li>                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(11).pdf" style="text-decoration:none;">Frontiers in Computational Chemistry: Computer Applications for Drug Design and Biomolecular Systems</a></b></li>                          
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(12).pdf" style="text-decoration:none;">Introduction to Computational Chemistry</a></b></li> 
 
