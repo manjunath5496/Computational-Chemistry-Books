@@ -24,15 +24,17 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(14).pdf" style="text-decoration:none;">Computers for Chemistry and Chemistry for Computers: From computational prediction of reaction selectivities to novel molecular wires for electrical devices</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(15).pdf" style="text-decoration:none;">Studies in Computational Quantum Chemistry</a></b></li>                                
-                               
-
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(16).pdf" style="text-decoration:none;">Computational Materials Chemistry: Methods and Applications</a></b></li> 
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(17).pdf" style="text-decoration:none;">Practical Aspects of Computational Chemistry I</a></b></li> 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(18).rar" style="text-decoration:none;">Handbook of Computational Chemistry  </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(19).pdf" style="text-decoration:none;">Computational Chemistry Methodology in Structural Biology and Materials Sciences</a></b></li>                                
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(20).rar" style="text-decoration:none;">Computational Pharmaceutical Solid State Chemistry</a></b></li> 
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Chemistry-Books/blob/master/ctc(21).pdf" style="text-decoration:none;">Computational Studies in Organometallic Chemistry</a></b></li> 
 
 
 
